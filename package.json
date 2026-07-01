@@ -1,0 +1,9 @@
+{
+  "name": "telegram-football-backend",
+  "version": "1.0.0",
+  "description": "Live score tracker engine",
+  "main": "tracker.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
